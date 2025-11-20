@@ -4,3 +4,4 @@ tracking changes to files.
 enabling collaboration among teams. 
 and providing a history that allows users to revert to previous versions.
 
+- Added badges
